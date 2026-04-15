@@ -1,0 +1,388 @@
+Apple Pay:
+
+      Apple Pay Information:  
+        Platform ID: N5B2M00417820000
+        SEID: 04062693CC159002214808916531568582078C53073D98BB
+        Device: 0xd2
+        Production Signed: Yes
+        Restricted Mode: No
+        Hardware: 0x00000007
+        Firmware: 0x0700
+        JCOP OS: 19.03
+
+      Controller Information:  
+        Hardware: b2.2 ()
+        Firmware: 1.9d rev 150916
+        Middleware: 5.1.2.40
+
+Audio:
+
+    Devices:
+
+        Normal’s phone Microphone:
+
+          Input Channels: 1
+          Manufacturer: Apple Inc.
+          Current SampleRate: 48000
+          Transport: Unknown
+          Input Source: Default
+
+        MacBook Air麦克风:
+
+          Default Input Device: Yes
+          Input Channels: 1
+          Manufacturer: Apple Inc.
+          Current SampleRate: 96000
+          Transport: Built-in
+          Input Source: MacBook Air麦克风
+
+        MacBook Air扬声器:
+
+          Default Output Device: Yes
+          Default System Output Device: Yes
+          Manufacturer: Apple Inc.
+          Output Channels: 2
+          Current SampleRate: 48000
+          Transport: Built-in
+          Output Source: MacBook Air扬声器
+
+        Microsoft Teams Audio:
+
+          Input Channels: 2
+          Manufacturer: Microsoft Corp.
+          Output Channels: 2
+          Current SampleRate: 48000
+          Transport: Virtual
+          Input Source: Microsoft Teams Audio Device
+          Output Source: Microsoft Teams Audio Device
+
+Bluetooth:
+
+      Bluetooth Controller:
+          State: On
+          Chipset: BCM_4378
+          Discoverable: Off
+          Firmware Version: 21.5.528.3737
+          Product ID: 0x4A02
+          Supported services: 0x392039 < HFP AVRCP A2DP HID Braille LEA AACP GATT SerialPort >
+          Transport: PCIe
+          Vendor ID: 0x004C (Apple)
+      Not Connected:
+          AirPods:
+              Firmware Version: 0.0.1
+              Minor Type: Headphones
+          AirPods:
+              Firmware Version: 0.0.1
+              Minor Type: Headphones
+          man的MacBook Air:
+          man的MacBook Air:
+          Microsoft Bluetooth Mouse:
+              Battery Level: 100%
+              Firmware Version: V2.12
+              Minor Type: Mouse
+          normal‘s iPad :
+              RSSI: -42
+          normal‘s watch:
+              RSSI: -47
+          normal’s earphone:
+              Case Version: 1.4.0
+              Firmware Version: 6A326
+              Minor Type: Headphones
+              Serial Number: H2KHVGTQ1059
+              Serial Number (Left): H2LHV8P40C6K
+              Serial Number (Right): H2LHVP940C6J
+          Normal’s phone:
+              RSSI: -62
+          XM-5 series:
+              Minor Type: Headset
+
+Camera:
+
+    FaceTime高清摄像头:
+
+      Model ID: FaceTime高清摄像头
+      Unique ID: EAB7A68F-EC2B-4487-AADF-D8A91C1CB782
+
+    Normal’s phone Camera:
+
+      Model ID: iPhone14,5
+      Unique ID: 1769C188-951B-4DE7-933E-DF3F00000001
+
+Controller:
+
+      Model Identifier: MacBookAir10,1
+      Firmware Version: iBoot-10151.140.19
+      Boot UUID: 612C4335-71EB-4E3B-8D1B-AEBDB40C6691
+      Boot Policy:  
+        Secure Boot: Full Security
+        System Integrity Protection: Enabled
+        Signed System Volume: Enabled
+        Kernel CTRR: Enabled
+        Boot Arguments Filtering: Enabled
+        Allow All Kernel Extensions: No
+        User Approved Privileged MDM Operations: No
+        DEP Approved Privileged MDM Operations: No
+
+Diagnostics:
+
+    Apple Diagnostics:
+
+      Last Run: 3/21/24, 4:17 PM
+      Version: 14.41.10.82
+      Reference Code(s): ADP000
+
+Graphics/Displays:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Air
+      Model Identifier: MacBookAir10,1
+      Model Number: Z124000AMZP/A
+      Chip: Apple M1
+      Total Number of Cores: 8 (4 performance and 4 efficiency)
+      Memory: 16 GB
+      System Firmware Version: 10151.140.19
+      OS Loader Version: 10151.140.19
+
+Memory:
+
+      Memory: 16 GB
+      Type: LPDDR4
+      Manufacturer: Hynix
+
+NVMExpress:
+
+    Apple SSD Controller:
+
+        APPLE SSD AP0512Q:
+
+          Capacity: 500.28 GB (500,277,792,768 bytes)
+          TRIM Support: Yes
+          Model: APPLE SSD AP0512Q
+          Revision: 373.140.
+          Detachable Drive: No
+          BSD Name: disk0
+          Partition Map Type: GPT (GUID Partition Table)
+          Removable Media: No
+          S.M.A.R.T. status: Verified
+
+Network:
+
+    Wi-Fi:
+
+      Type: AirPort
+      Hardware: AirPort
+      BSD Device Name: en0
+      Service Order: 0
+
+    Thunderbolt Bridge:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: bridge0
+      Service Order: 1
+
+    iPhone:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: en5
+      Service Order: 2
+
+    CUHK VPN:
+
+      Type: PPP (L2TP)
+      Service Order: 3
+
+    LetsVPN:
+
+      Type: VPN (world.letsgo.booster.mac.store)
+      Service Order: 4
+
+    穿梭P:
+
+      Type: VPN (com.fobwifi.mac)
+      Service Order: 5
+
+Printer Software:
+
+    PPDs:
+
+      PPDs: 
+
+    Printers:
+
+      Printers: 
+
+    Image Capture Devices:
+
+      Image Capture Devices: 
+
+    Image Capture Support:
+
+      Image Capture Support:
+          Path: /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app/Contents/Info.plist
+          Version: 607
+
+    System Library Extensions:
+
+      System Library Extensions:
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleXserveRAID.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/FireWireStorageDeviceSpecifics.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/USBStorageDeviceSpecifics.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleATAPIStorage.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SCSIDeviceSpecifics.kext
+          Version: 556
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SonyXDCAMDriver.kext
+          Version: 556
+          Path: /System/Library/Extensions/AFKACIPCKext.kext
+          Version: 1.0
+          Path: /System/Library/Extensions/AppleHIDKeyboardEmbedded.kext
+          Version: 1.2.0
+          Path: /System/Library/Extensions/IOStreamFamily.kext/Contents/PlugIns/IOStreamUserClient.kext
+          Version: 1.1.0
+          Path: /System/Library/Extensions/AppleBSDKextStarter.kext/Contents/PlugIns/AppleBSDKextStarterVPN.kext
+          Version: 1.0
+          Path: /System/Library/Extensions/AppleBSDKextStarter.kext/Contents/PlugIns/AppleBSDKextStarterTMPFS.kext
+          Version: 1.0
+          Path: /System/Library/Extensions/AppleTopCase.kext
+          Version: 7440.8
+          Path: /System/Library/Extensions/AppleTopCase.kext/Contents/PlugIns/AppleTopCaseDriverV2.kext
+          Version: 7440.8
+          Path: /System/Library/Extensions/AppleTopCase.kext/Contents/PlugIns/AppleTopCaseActuatorHIDDriver.kext
+          Version: 7440.8
+          Path: /System/Library/Extensions/IOVideoFamily.kext/Contents/PlugIns/IOVideoDeviceUserClient.kext
+          Version: 1.2.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriver.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDUserClient.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriverSafeBoot.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOUSBFamily.kext/Contents/PlugIns/IOUSBHIDDriverSafeBoot.kext
+          Version: 900.4.2
+          Path: /System/Library/Extensions/CellPhoneHelper.kext
+          Version: 1.4.0
+          Path: /System/Library/Extensions/IOUSBHostFamily.kext/Contents/PlugIns/IOUSBHostHIDDeviceSafeBoot.kext
+          Version: 1.2
+
+    Library Extensions:
+
+      Library Extensions: 
+
+Printers:
+
+      Status: The printers list is empty. To add printers, choose Apple menu > System Settings…, click Printers & Scanners, and then click Add Printer, Scanner, or Fax…
+      CUPS Version: CUPS/2.3.4 (macOS 14.6.1; arm64) IPP/2.0
+
+SPI:
+
+    Apple Internal Keyboard / Trackpad:
+
+      Product ID: 0x0281
+      Vendor ID: 0x05ac (Apple Inc.)
+      ST Version: 9.35
+      MT Version: 5.30
+      Serial Number: F0T2196Z3NYN4FTBK+YEG
+      Manufacturer: Apple Inc.
+      Location ID: 0x00000029
+
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 14.6.1 (23G93)
+      Kernel Version: Darwin 23.6.0
+      Time since boot: 1 day, 3 hours, 33 minutes
+
+Thunderbolt/USB4:
+
+    Thunderbolt/USB4 Bus 1:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Air
+      UID: 0x05AC2A85C84FF741
+      Route String: 0
+      Domain UUID: 5C4E7E77-A777-468F-A865-4C526E7DABC1
+      Port:
+          Status: No device connected
+          Link Status: 0x100
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 2
+
+    Thunderbolt/USB4 Bus 0:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Air
+      UID: 0x05AC2A85C84FF740
+      Route String: 0
+      Domain UUID: FAC3D16C-35C1-4B5A-AC4C-67B13A97657B
+      Port:
+          Status: No device connected
+          Link Status: 0x100
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 1
+
+USB:
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleT8103USBXHCI
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleT8103USBXHCI
+
+Wi-Fi:
+
+      Software Versions:
+          CoreWLAN: 16.0 (1657)
+          CoreWLANKit: 16.0 (1657)
+          Menu Extra: 17.0 (1728)
+          System Information: 15.0 (1502)
+          IO80211 Family: 12.0 (1200.13.0)
+          Diagnostics: 11.0 (1163)
+          AirPort Utility: 6.3.9 (639.23)
+      Interfaces:
+        en0:
+          Card Type: Wi-Fi  (0x14E4, 0x4378)
+          Firmware Version: wl0: Jan 13 2024 03:06:59 version 18.20.440.9.7.8.167 FWID 01-7be24857
+          MAC Address: a4:c6:f0:01:43:0f
+          Locale: ETSI
+          Country Code: HK
+          Supported PHY Modes: 802.11 a/b/g/n/ac/ax
+          Supported Channels: 1 (2GHz), 2 (2GHz), 3 (2GHz), 4 (2GHz), 5 (2GHz), 6 (2GHz), 7 (2GHz), 8 (2GHz), 9 (2GHz), 10 (2GHz), 11 (2GHz), 12 (2GHz), 13 (2GHz), 36 (5GHz), 40 (5GHz), 44 (5GHz), 48 (5GHz), 52 (5GHz), 56 (5GHz), 60 (5GHz), 64 (5GHz), 100 (5GHz), 104 (5GHz), 108 (5GHz), 112 (5GHz), 116 (5GHz), 120 (5GHz), 124 (5GHz), 128 (5GHz), 132 (5GHz), 136 (5GHz), 140 (5GHz), 144 (5GHz), 149 (5GHz), 153 (5GHz), 157 (5GHz), 161 (5GHz), 165 (5GHz)
+          Wake On Wireless: Supported
+          AirDrop: Supported
+          Auto Unlock: Supported
+          Status: Connected
+        awdl0:
+          MAC Address: da:38:9e:dc:1b:8a
+          Supported Channels: 1 (2GHz), 2 (2GHz), 3 (2GHz), 4 (2GHz), 5 (2GHz), 6 (2GHz), 7 (2GHz), 8 (2GHz), 9 (2GHz), 10 (2GHz), 11 (2GHz), 12 (2GHz), 13 (2GHz), 36 (5GHz), 40 (5GHz), 44 (5GHz), 48 (5GHz), 52 (5GHz), 56 (5GHz), 60 (5GHz), 64 (5GHz), 100 (5GHz), 104 (5GHz), 108 (5GHz), 112 (5GHz), 116 (5GHz), 120 (5GHz), 124 (5GHz), 128 (5GHz), 132 (5GHz), 136 (5GHz), 140 (5GHz), 144 (5GHz), 149 (5GHz), 153 (5GHz), 157 (5GHz), 161 (5GHz), 165 (5GHz)
+
