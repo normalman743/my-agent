@@ -1,0 +1,122 @@
+body {
+    background: #111;
+    margin: 0;
+    padding: 0;
+}
+
+#game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#gameCanvas {
+    background: #222;
+    display: block;
+    margin: 0 auto;
+    border: none;
+    box-shadow: none;
+    max-width: 98vw;
+    max-height: 70vh;
+    width: 100%;
+    height: auto;
+    touch-action: none;
+}
+
+body, html {
+    overscroll-behavior: contain;
+}
+
+/* 适配移动端按钮样式优化 */
+#start-btn, #restart-btn {
+    font-size: 1.5rem;
+    padding: 0.5em 2em;
+    border-radius: 0.5em;
+    border: none;
+    background: #FFD700;
+    color: #222;
+    margin: 0.5em 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+#score {
+    color: #FFD700;
+    font-size: 1.5rem;
+    margin-top: 16px;
+    font-family: monospace, Arial, sans-serif;
+    user-select: none;
+}
+
+.wall {
+    background-color: blue;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.pacman {
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    transition: transform 0.1s;
+}
+
+.ghost {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+}
+
+@media (max-width: 600px) {
+    #score {
+        font-size: 1.1rem;
+    }
+    #start-btn, #restart-btn {
+        font-size: 1.1rem;
+        padding: 0.4em 1.2em;
+    }
+}
+
+body.mobile-mode #gameCanvas {
+    max-width: 100vw;
+    max-height: 92vh;
+    width: 100vw;
+    height: auto;
+}
+body.mobile-mode #mobile-controls {
+    display: flex !important;
+}
+#mobile-controls {
+    display: none;
+}
+
+body.mobile-mode #score {
+    font-size: 1.2rem;
+}
+
+body.mobile-mode #start-screen,
+body.mobile-mode #mode-select-screen,
+body.mobile-mode #gameover-screen {
+    font-size: 1.1rem;
+}
+
+@media (max-width: 600px) {
+    body.mobile-mode #score {
+        font-size: 1rem;
+    }
+    body.mobile-mode #start-btn, body.mobile-mode #restart-btn, body.mobile-mode #mobile-mode-btn, body.mobile-mode #desktop-mode-btn {
+        font-size: 1rem;
+        padding: 0.4em 1.2em;
+    }
+}
