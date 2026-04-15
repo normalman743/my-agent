@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+myenv/
+venv/
+.venv/
+env/
+
+# Environment variables (secrets)
+.env
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Nested git repos (V6.0 had its own repo)
+V6.0 Ollama Agent/.git
+
+# Logs
+*.log
+starai.log
+
+# Temp files
+temp_screenshots/
+output.txt
+*.png
+!逆向/**/*.png
+
+# Jupyter
+.ipynb_checkpoints/
